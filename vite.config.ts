@@ -56,5 +56,6 @@ export default defineConfig(({ command, mode }) => {
         },
       },
     },
+    envDir: resolve(__dirname, "./env"),
   };
 });
