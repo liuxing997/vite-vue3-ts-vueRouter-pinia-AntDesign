@@ -9,7 +9,7 @@
     <a-button type="primary" shape="circle" size="large">A</a-button>
     <p>
       Thank you for use llx-cli !
-      <code></code> by 刘兴
+      <code></code> Development by 刘兴
     </p>
   </div>
   <p>
