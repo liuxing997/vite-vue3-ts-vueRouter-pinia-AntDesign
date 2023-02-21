@@ -1,4 +1,6 @@
-# Vite +  Vue 3 + TypeScript + VueRouter +  Pinia + Ant Design for Vue
+# {{projectName}}
+
+{{description}}
 
 ### Frameworks
 
